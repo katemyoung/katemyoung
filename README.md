@@ -2,5 +2,5 @@
 
 I'm a lead software engineer, an educator, a former headteacher specialising in primary STEM, a storymaker and a mum.
 
-Find out more about me: [GitHub CV](https://github.com/katemyoung/CV/blob/master/README.md) | [PDF CV](https://www.katemyoung.com/#Kate%20Young%20CV.pdf) | [LinkedIn](https://www.linkedin.com/in/katemyoung/)
+Find out more about me: [GitHub CV](https://github.com/katemyoung/CV/blob/master/README.md) | [PDF CV](https://github.com/katemyoung/CV/blob/master/Kate_Young_CV_2026.pdf) | [LinkedIn](https://www.linkedin.com/in/katemyoung/)
 
